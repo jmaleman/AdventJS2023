@@ -8,10 +8,10 @@ Mis soluciones a los 25 retos de programación en JavaScript.
 
 ## Retos
 
-| #  	| Nombre                       	| Nivel     | Puntos 	| Enalce |
-|-------|-------------------------------|-----------|-----------|--------|
-| 01 	| ¡Primer regalo repetido!     	| 🟢️     	 | 220     	 | [link](https://github.com/jmaleman/AdventJS2023/blob/main/challenges/01/01.js) |
-| 02 	| Ponemos en marcha la Fabrica 	| 🟢️     	 | -      	 | -      |
+| #  	| Nombre                       	| Nivel | Puntos | Enalce |
+|-------|-------------------------------|-------|--------|--------|
+| 01 	| ¡Primer regalo repetido!     	| 🟢️    | 220    | [link](https://github.com/jmaleman/AdventJS2023/blob/main/challenges/01/01.js) |
+| 02 	| Ponemos en marcha la Fabrica 	| 🟢️    | 210    | [link](https://github.com/jmaleman/AdventJS2023/blob/main/challenges/02/02.js) |
 
 ## Agradecimientos
 
