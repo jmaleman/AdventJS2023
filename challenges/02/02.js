@@ -3,9 +3,16 @@
  * Rendimiento: 2596 ops/s
  * Compl. cognitiva: 3
  */
-
 function manufacture(gifts, materials) {
     const _materials = [...materials]
-    return gifts.filter( (gift) => [...gift].every((e) => _materials.includes(e) ) )
+    
+    let gifts_final = []
+    
+    gifts.forEach( gift => {
+        if([...gift].every((e) => _materials.includes(e) )){
+            gifts_final.push(gift);
+        }
+    });
 
+    return gifts_final;
 }
