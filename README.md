@@ -13,6 +13,7 @@ Mis soluciones a los 25 retos de programación en JavaScript.
 
 - [MDN Web Docs: Array](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - [MDN Web Docs: String](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [MDN Web Docs: Set](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Set)
 
 ## Retos
 
@@ -21,7 +22,7 @@ Mis soluciones a los 25 retos de programación en JavaScript.
 | 01 | ¡Primer regalo repetido!     	| 🟢️    | 220    | [link](https://github.com/jmaleman/AdventJS2023/blob/main/challenges/01/01.js) |
 | 02 | Ponemos en marcha la Fabrica 	| 🟢️    | 210    | [link](https://github.com/jmaleman/AdventJS2023/blob/main/challenges/02/02.js) |
 | 03 | El elfito travieso               | 🟢️    | 330    | [link](https://github.com/jmaleman/AdventJS2023/blob/main/challenges/03/03.js) |
-| 04 | Dale la vuelta a los paréntesis  | 🟡️    | ---    | ---      |
+| 04 | Dale la vuelta a los paréntesis  | 🟡️    | 270    | [link](https://github.com/jmaleman/AdventJS2023/blob/main/challenges/04/)    |
 | 05 | El CyberTruck de Santa           | 🟡️    | ---    | ---      |
 | 06 | Los renos de prueba              | 🟢️    | ---    | ---      |
 | 07 | Las cajas en 3D                  | 🟢️    | ---    | ---      |
